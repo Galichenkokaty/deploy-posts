@@ -1,0 +1,1 @@
+import{_ as e}from"./t8dkAWkV.js";import{_ as o,c,b as s,w as n,o as _,d as a}from"./Camkh_-N.js";const r={},d={class:"center-wrap col --12"};function i(p,f){const t=e;return _(),c("div",d,[s(t,{to:"/posts"},{default:n(()=>[a("Go to Posts")]),_:1})])}const l=o(r,[["render",i]]);export{l as default};
